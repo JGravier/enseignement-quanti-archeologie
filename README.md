@@ -1,7 +1,7 @@
 # Contexte
-Ce dépôt contient la structure et les résultats d'un questionnaire visant à prendre la mesure de l'enseignement des méthodes quantitatives en archéologie francophone (France et Belgique). La mise en place de ce questionnaire a été motivée par une présentation de Lise Saussus, Julie Gravier et Bruno Desachy lors de la journée d'étude "Formations et enseignements des méthodes quantitatives en histoire" organisée au sein de la revue _Histoire & Mesures_ par Alessandro Stanziani (mars 2024).
+Ce dépôt contient la structure et les résultats d'un questionnaire visant à prendre la mesure de l'enseignement des méthodes quantitatives en archéologie francophone (France et Belgique). La mise en place de ce questionnaire a été motivée par une présentation de Lise Saussus, Julie Gravier et Bruno Desachy lors de la journée d'étude "Formations et enseignements des méthodes quantitatives en histoire" organisée au sein de la revue _Histoire & Mesure_ par Alessandro Stanziani (mars 2024).
 
-```[!WARNING]<\br>
+```[!WARNING]
 Following sections are under construction
 ```
 
