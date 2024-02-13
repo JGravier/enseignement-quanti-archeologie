@@ -6,7 +6,7 @@ Following sections are under construction
 ```
 
 # Questionnaire
-Le questionnaire en ligne a été construit à partir de [Framaforms](https://framaforms.org/abc/fr/) pour des raisons de contrôle des données personnelles récoltées et du fait que le logiciel [Yakforms](https://yakforms.org/pages/contribute.html) sur lequel repose Framaforms est libre. Les formulaires Framaforms ayant une durée maximale de 6 mois, nous avons fait le choix de mettre par ailleurs en ligne sa structure afin qu'il puisse être consulté de manière plus pérenne à cette adresse :  [faux questionnaire](https://jgravier.github.io/enseignement-quanti-archeologie/) . 
+Le questionnaire en ligne a été construit à partir de [Framaforms](https://framaforms.org/abc/fr/) pour des raisons de contrôle des données personnelles récoltées et du fait que le logiciel [Yakforms](https://yakforms.org/pages/contribute.html) sur lequel repose Framaforms est libre. Nous avons fait le choix de mettre en ligne la structure générale du questionnaire sous la forme d'une unique page HTML fixe afin qu'il puisse être consulté de manière plus pérenne à cette adresse : [faux questionnaire](https://jgravier.github.io/enseignement-quanti-archeologie/) . 
 
 # Résultats
 Pour des raisons de RGPD, les résultats bruts du questionnaire à l'échelle individuelle ne sont pas ouvertes. En revanche, les résultats agrégés sont disponibles et ouverts.
